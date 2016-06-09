@@ -41,7 +41,7 @@ In order to choose between segues later, each segue has an identifier, just like
 
 ![](images/Screen Shot 2016-06-09 at 11.00.45 AM.png)
 
-![](/Users/jesse/Developer/iOS Reference Projects/Unwind-Segue-Demo/images/Screen Shot 2016-06-09 at 11.02.43 AM.png)
+![](images/Screen Shot 2016-06-09 at 11.02.43 AM.png)
 
 If we don't want to push an additional destination view controller onto the navigation stack if one of it's kind already exists, we can decide to use the unwind segue instead by implementing `shouldPerformSegueWithIdentifier(_:sender:)` in our view controller
 
