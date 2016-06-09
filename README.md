@@ -1,6 +1,8 @@
 # Unwind-Segue-Demo
 Barebones demo of using unwind segues to prevent nasty navigation stacks
 
+Also see [Apple's documentation](https://developer.apple.com/library/ios/technotes/tn2298/_index.html#//apple_ref/doc/uid/DTS40013591-CH1-DETDEST)
+
 # Adding Unwind Segues
 
 ## Declare The Segue
